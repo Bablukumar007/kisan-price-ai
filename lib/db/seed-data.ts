@@ -34,4 +34,18 @@ export const marketSeed = [
   { id: 'lasalgaon-apmc', name: 'Lasalgaon APMC', district: 'Nashik', state: 'Maharashtra', latitude: 20.1428, longitude: 74.2367 },
   { id: 'pimpalgaon-baswant', name: 'Pimpalgaon Baswant', district: 'Nashik', state: 'Maharashtra', latitude: 20.1687, longitude: 73.9928 },
   { id: 'manmad-apmc', name: 'Manmad APMC', district: 'Nashik', state: 'Maharashtra', latitude: 20.2537, longitude: 74.4378 },
+  { id: 'pune-apmc', name: 'Pune Gultekdi APMC', district: 'Pune', state: 'Maharashtra', latitude: 18.4988, longitude: 73.8643 },
+  { id: 'mumbai-vashi-apmc', name: 'Vashi APMC Market', district: 'Thane', state: 'Maharashtra', latitude: 19.0748, longitude: 73.0031 },
+  { id: 'sangli-apmc', name: 'Sangli APMC', district: 'Sangli', state: 'Maharashtra', latitude: 16.8524, longitude: 74.5815 },
+  { id: 'solapur-apmc', name: 'Solapur APMC', district: 'Solapur', state: 'Maharashtra', latitude: 17.6599, longitude: 75.9064 },
+  { id: 'kolhapur-apmc', name: 'Kolhapur APMC', district: 'Kolhapur', state: 'Maharashtra', latitude: 16.7050, longitude: 74.2433 },
+  { id: 'nagpur-apmc', name: 'Kalamna APMC Nagpur', district: 'Nagpur', state: 'Maharashtra', latitude: 21.1714, longitude: 79.1388 },
+  { id: 'jalgaon-apmc', name: 'Jalgaon APMC', district: 'Jalgaon', state: 'Maharashtra', latitude: 21.0077, longitude: 75.5626 },
+  { id: 'ahmednagar-apmc', name: 'Ahmednagar APMC', district: 'Ahmednagar', state: 'Maharashtra', latitude: 19.0948, longitude: 74.7480 },
+  { id: 'amravati-apmc', name: 'Amravati APMC', district: 'Amravati', state: 'Maharashtra', latitude: 20.9374, longitude: 77.7796 },
+  { id: 'latur-apmc', name: 'Latur APMC', district: 'Latur', state: 'Maharashtra', latitude: 18.4088, longitude: 76.5604 },
+  { id: 'akola-apmc', name: 'Akola APMC', district: 'Akola', state: 'Maharashtra', latitude: 20.7002, longitude: 77.0082 },
+  { id: 'nashik-apmc', name: 'Nashik APMC Panchavati', district: 'Nashik', state: 'Maharashtra', latitude: 20.0059, longitude: 73.7901 },
+  { id: 'azadpur-mandi', name: 'Azadpur Mandi', district: 'North Delhi', state: 'Delhi', latitude: 28.7061, longitude: 77.1772 },
 ]
+
